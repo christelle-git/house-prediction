@@ -1,0 +1,10 @@
+House prediction
+================
+
+
+* This code focuses on the rent prediction based on 1 or 2 features: 
+  the surface and the borough.
+
+* The models are the linear and quadratic regression.
+
+* The code compares each models and tells which is the best performing. 
